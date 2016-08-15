@@ -1,0 +1,39 @@
+﻿#EXTM3U
+#EXTINF:-1,GR:ERT1
+https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ERT1.m3u8
+#EXTINF:-1,GR:ERT2
+https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ERT2.m3u8
+#EXTINF:-1,GR:ERT3
+https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ERT3.m3u8
+#EXTINF:-1,GR:STAR
+https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/STAR.m3u8
+#EXTINF:-1,GR:SKAI
+https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/SKAI.m3u8
+#EXTINF:-1,GR:ETV
+https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ETV.m3u8
+#EXTINF:-1,GR:MACEDONIA TV
+https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/MAKEDONIA.m3u8
+#EXTINF:-1,GR:ART
+https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ART.m3u8
+#EXTINF:-1,CY:RIK1
+https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/rik1.m3u8
+#EXTINF:-1,CY:RIK2
+https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/rik2.m3u8
+#EXTINF:-1,CY:MEGA
+https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/Mega.cy.m3u8
+#EXTINF:-1,CY:ANT1.CY
+https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ANT1.CY.m3u8
+#EXTINF:-1,CY:SIGMA.CY
+https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/SIGMA.m3u8
+#EXTINF:-1,CY:CAPITAL.CY
+https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/CAPITAL.m3u8
+#EXTINF:-1,CY:EXTRA.CY
+https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/EXTRA.CY.m3u8
+#EXTINF:-1,GR:OMEGA
+https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/OMEGA.m3u8
+#EXTINF:-1,GR:AIGAIO TV
+https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/AIGAIO.m3u8
+#EXTINF:-1,GR:ASTRA TV
+https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ASTRA.m3u8
+#EXTINF:-1,GR:KONTRA
+https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/KONTRA.m3u8
