@@ -1,7 +1,3 @@
-@echo on
-rem ARTE - ERT1
-youtube-dl "https://www.youtube.com/watch?v=gnnO4TeJG-4" best -o L_Intime.mp4
-pause
-...
-:end
-===
+#EXTM3U
+#EXTINF:-1,GR:ELLADA
+http://www.elladatv.gr//scripts/player.swf?netstreambasepath=http%3A%2F%2Fwww.elladatv.gr%2F&id=webtv-wrapper&file=elladatv%3F934764968a353f33571588865f81c449b411aa2370af2a848529917f4563b1a5b992e6f6e35f11&provider=rtmp&streamer=rtmp%3A%2F%2Ffml.68FC.edgecastcdn.net%2F2068FC&rtmp.subscribe=true&skin=%2Fscripts%2Fbeelden.zip&quality=true&autostart=true&controlbar.position=over
