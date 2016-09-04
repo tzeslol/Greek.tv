@@ -1,0 +1,7 @@
+@echo on
+rem ARTE - ERT1
+youtube-dl "https://www.youtube.com/watch?v=gnnO4TeJG-4" best -o L_Intime.mp4
+pause
+...
+:end
+===
